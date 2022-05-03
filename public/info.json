@@ -1,0 +1,9 @@
+{
+  "title": "Steam平台饥荒联机版Linux独立服务器管理器",
+  "name": "dst_manager",
+  "ps": "用于安装并管理Steam平台饥荒联机版Linux独立服务器",
+  "versions": "0.1",
+  "checks": "/www/server/panel/plugin/dst_manager",
+  "author": "南风颂",
+  "home": "https://blog.wqlin.com"
+}
